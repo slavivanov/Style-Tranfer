@@ -32,7 +32,7 @@ def show(a, fmt='jpeg'):
     display.display(img)
 
 def resize_array(array, size):
-    '''Resizes an image (formatted as np array) to given size.
+    '''Resizes an image (formatted as np array) to give size.
     Args:
         array: np array representing the image.
         size: The desired size.
